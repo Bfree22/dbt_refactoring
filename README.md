@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+This DBT project focuses on refactoring the jaffle_shop and stripe tables. Refactoring is the process of making changes to your data models and transformations in a way that improves their structure, performance, maintainability, or other aspects.
 
 ### Using the starter project
 
