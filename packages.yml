@@ -1,0 +1,6 @@
+# packages.yml 
+packages:
+  - package: dbt-labs/dbt_utils
+    version: '>=0.8.4'  # Update to a version greater than or equal to 0.8.4
+  - package: dbt-labs/audit_helper
+    version: 0.9.0
